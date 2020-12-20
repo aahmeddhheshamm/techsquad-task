@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/techsquad-task/static/css/main.49074279.chunk.css",
+    "main.js": "/techsquad-task/static/js/main.4c21627a.chunk.js",
+    "main.js.map": "/techsquad-task/static/js/main.4c21627a.chunk.js.map",
+    "runtime-main.js": "/techsquad-task/static/js/runtime-main.52354367.js",
+    "runtime-main.js.map": "/techsquad-task/static/js/runtime-main.52354367.js.map",
+    "static/js/2.589d1c48.chunk.js": "/techsquad-task/static/js/2.589d1c48.chunk.js",
+    "static/js/2.589d1c48.chunk.js.map": "/techsquad-task/static/js/2.589d1c48.chunk.js.map",
+    "index.html": "/techsquad-task/index.html",
+    "static/css/main.49074279.chunk.css.map": "/techsquad-task/static/css/main.49074279.chunk.css.map",
+    "static/js/2.589d1c48.chunk.js.LICENSE.txt": "/techsquad-task/static/js/2.589d1c48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52354367.js",
+    "static/js/2.589d1c48.chunk.js",
+    "static/css/main.49074279.chunk.css",
+    "static/js/main.4c21627a.chunk.js"
+  ]
+}
